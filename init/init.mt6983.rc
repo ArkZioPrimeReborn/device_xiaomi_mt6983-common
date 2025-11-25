@@ -2,8 +2,8 @@
 
 import /vendor/etc/init/hw/init.batterysecret.rc
 import /vendor/etc/init/hw/init.connectivity.rc
-import /vendor/etc/init/hw/init.mt6895.power.rc
-import /vendor/etc/init/hw/init.mt6895.usb.rc
+import /vendor/etc/init/hw/init.mt6983.power.rc
+import /vendor/etc/init/hw/init.mt6983.usb.rc
 import /vendor/etc/init/hw/init.mtkgki.rc
 import /vendor/etc/init/hw/init.mi_thermald.rc
 import /vendor/etc/init/hw/init.sensor_2_0.rc

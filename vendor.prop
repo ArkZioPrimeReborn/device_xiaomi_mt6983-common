@@ -46,7 +46,7 @@ bluetooth.profile.pan.panu.enabled?=true
 bluetooth.profile.pbap.server.enabled?=true
 bluetooth.profile.sap.server.enabled?=true
 bluetooth.profile.vcp.controller.enabled?=true
-ro.vendor.bt.platform=6895
+ro.vendor.bt.platform=6983
 vendor.bluetooth.ldac.abr=true
 
 # ConsumerIR
@@ -102,7 +102,7 @@ ro.vendor.smvr.p2batch.fhd=8
 persist.vendor.sys.mtkaal.function=0
 
 # DRM
-ro.netflix.bsp_rev=MTK6895-35027-1
+ro.netflix.bsp_rev=MTK6983-35029-1
 
 # GNSS
 ro.vendor.gps.chrdev=gps_drv
@@ -249,7 +249,7 @@ ro.apk_verity.mode=2
 ro.vendor.wifi.sap.concurrent.iface=ap1
 ro.vendor.wifi.sap.interface=ap0
 ro.vendor.wlan.chrdev=wmt_chrdev_wifi
-ro.vendor.wlan.gen=gen4m_6895
+ro.vendor.wlan.gen=gen4m_6983
 
 # Zygote
 zygote.critical_window.minute=10
