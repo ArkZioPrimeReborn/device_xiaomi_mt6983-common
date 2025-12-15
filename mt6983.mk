@@ -207,13 +207,15 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     fstab.mt6983 \
     fstab.mt6983.vendor_ramdisk \
+    init.aee.rc \
     init.batterysecret.rc \
     init.connectivity.rc \
-    init.fingerprint.rc \
+    init.connectivity.common.rc \
+    init.cgroup.rc \
+    init_conninfra.rc \
     init.mi_thermald.rc \
     init.modem.rc \
     init.mt6983.rc \
-    init.mt6983.power.rc \
     init.mt6983.usb.rc \
     init.mtkgki.rc \
     init.sensor_2_0.rc \
