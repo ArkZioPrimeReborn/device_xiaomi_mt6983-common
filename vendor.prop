@@ -52,6 +52,11 @@ vendor.bluetooth.ldac.abr=true
 # ConsumerIR
 ro.hardware.consumerir=common
 
+# Connectivity
+vendor/bin/conninfra_loader
+vendor/etc/init/init.connfem.rc
+vendor/etc/init/init.conninfra.rc
+
 # Display
 ro.hardware.egl=meow
 ro.hardware.vulkan=mali
