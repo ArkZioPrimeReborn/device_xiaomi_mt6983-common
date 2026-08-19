@@ -11,7 +11,7 @@
      limitations under the License.
 -->
 
-<!-- mt6895 specific wifi overlays -->
+<!-- mt6983 specific wifi overlays -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.android.wifi.resources.mt6983"
     android:versionCode="1"

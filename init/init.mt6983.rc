@@ -1,10 +1,9 @@
 # MTK platform .rc configure
 
 import /vendor/etc/init/hw/init_conninfra.rc
-import /vendor/etc/init/hw/init_aee.rc
+import /vendor/etc/init/hw/init.aee.rc
 import /vendor/etc/init/hw/init.batterysecret.rc
 import /vendor/etc/init/hw/init.cgroup.rc
-import /vendor/etc/init/hw/init.charge_logger.rc
 import /vendor/etc/init/hw/init.connectivity.common.rc
 import /vendor/etc/init/hw/init.connectivity.rc
 import /vendor/etc/init/hw/init.mi_thermald.rc

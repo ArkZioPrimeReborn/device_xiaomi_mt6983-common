@@ -12,8 +12,8 @@ prebuilt_etc {
 }
 
 prebuilt_etc {
-    name: "init.conninfra.rc",
-    src: "init.conninfra.rc",
+    name: "init_conninfra.rc",
+    src: "init_conninfra.rc",
     sub_dir: "init/hw",
     vendor: true,
 }
